@@ -2,7 +2,7 @@
 const Web3 = require('web3');
 
 // Kontrat ABI'sini yükleme
-const contractABI = require('./MyNFT.json');
+const contractABI = require('./sashanftmarketplace.json');
 
 // Web3 sağlayıcısını ayarlama
 const web3 = new Web3(Web3.givenProvider || 'http://localhost:8545');
