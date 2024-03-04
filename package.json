@@ -1,0 +1,21 @@
+{
+  "name": "sashanftmarketplace",
+  "version": "1.0.0",
+  "description": "A project for NFT contract and website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nft-project.git"
+  },
+  "keywords": ["NFT", "Ethereum", "Web3", "Solidity"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "web3": "^1.5.2",
+    "express": "^4.17.1"
+  }
+}
