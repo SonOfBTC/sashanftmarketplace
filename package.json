@@ -1,5 +1,5 @@
 {
-  "name": "sashanftmarketplace",
+  "name": "@sonofbtc/sashanftmarketplace",
   "version": "1.0.0",
   "description": "A project for NFT contract and website",
   "main": "index.js",
@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/SonOfBTC/sashanftmarketplace/issues"
   },
-  "homepage": "https://github.com/SonOfBTC/sashanftmarketplace#readme"
+  "homepage": "https://github.com/SonOfBTC/sashanftmarketplace#readme",
+  "devDependencies": {}
 }
