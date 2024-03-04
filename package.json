@@ -10,12 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/SonOfBTC/sashanftmarketplace.git"
   },
-  "keywords": ["NFT", "Ethereum", "Web3", "Solidity"],
+  "keywords": [
+    "NFT",
+    "Ethereum",
+    "Web3",
+    "Solidity"
+  ],
   "author": "Sasha",
   "license": "MIT",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.0",
-    "web3": "^1.5.2",
-    "express": "^4.17.1"
-  }
+    "@openzeppelin/contracts": "^4.9.6",
+    "express": "^4.18.3",
+    "web3": "^4.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SonOfBTC/sashanftmarketplace/issues"
+  },
+  "homepage": "https://github.com/SonOfBTC/sashanftmarketplace#readme"
 }
